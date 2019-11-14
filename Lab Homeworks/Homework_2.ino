@@ -5,6 +5,7 @@ int buzzerTone = 1000;
 int speakerValue = 0;
 
 const int threshold = 1;
+int knocked = 0;
 
 const int pushButton = 2;
 int buttonState = 0;
@@ -28,10 +29,12 @@ void loop() {
   if(speakerValue > threshold){
     Serial.println("Knock");
     knock = millis();
-    if(millis() - knock > 5000){
+    knocked = 1;
+ }
+ 
+  if(millis() - knocked > 5000 && knocked == 1){
     startSong = 1;
   }
- }
   if(startSong == 1)
    tone(buzzerPin, buzzerTone);
 
@@ -40,5 +43,6 @@ void loop() {
    if(buttonState == LOW && startSong == 1){
     noTone(buzzerPin);
     startSong = 0;
+    knocked = 0;
    }
 }
