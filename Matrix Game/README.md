@@ -21,4 +21,6 @@ How to play :
   Your character will also be one small, red dot on the matrix. 
   Good luck and take care of your dot !
   
- 
+ Bonus :
+  
+  If you manage to finish the game with no lives lost you'll get one extra level in which, in 20 seconds, you should avoid as many obstacles you cand. Pay attention ! If you get hit before the time ends the game will finish ,but you will keep your points.
