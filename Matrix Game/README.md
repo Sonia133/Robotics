@@ -20,7 +20,4 @@ How to play :
   In every level the goal is to pass all the obstacles which will appear in you way. To avoid them, you will use the Joystick in order to move left or right. The obstacles will be marked by red triangles or rectangles on your matrix. Bumping into one obstacle means losing one life.
   Your character will also be one small, red dot on the matrix. 
   Good luck and take care of your dot !
-  
- Bonus :
-  
-  If you manage to finish the game with no lives lost you'll get one extra level in which, in 20 seconds, you should avoid as many obstacles you cand. Pay attention ! If you get hit before the time ends the game will finish ,but you will keep your points.
+
