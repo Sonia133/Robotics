@@ -13,7 +13,7 @@ Hardware :
   
  First steps : 
  
-  In order to start the game, the player needs to select "Start Game" from the menu shown on the LCD screen by pressing the Joysticks button. Moreover, you can scroll through the menu with the X axis of the Joystick to select one of the othre two options : settings and highscore. To win the game, you must pass 5 levels. By default you start from level 1,but you can also select it from settings. The game becomes harder when, level after level, the speed increases. The score will be calculated by the next formula : 10 * level * number of obstacle passed in the current level. You have three chances (lives) to show that you can finish this game ! By losing one life, the game brings you to the beginning of the level, but if you lose all your lives you will need to start from level 1 with score 0. 
+  In order to start the game, the player needs to select "Start Game" from the menu shown on the LCD screen by pressing the Joysticks button. Moreover, you can scroll through the menu with the X axis of the Joystick to select one of the othre two options : settings and highscore. To win the game, you must pass 5 levels. By default you start from level 1,but you can also select it from settings. The game becomes harder when, level after level, the speed increases. The score will be calculated by the next formula : 10 * level * number of obstacle passed in the current level. You have three chances (lives) to show that you can finish this game ! By losing one life, the game brings you to the beginning of the level, but if you lose all your lives you will need to start from level 1. 
   
 How to play :
   
