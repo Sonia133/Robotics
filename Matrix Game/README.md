@@ -1,4 +1,4 @@
-Name of the game : RACING GAME
+Name of the game : BIT RACE
 
 Hardware : 
   1. 8x8 LED matrix
