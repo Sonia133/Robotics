@@ -1,4 +1,4 @@
-![Hardware Image](https://user-images.githubusercontent.com/e844b89c-3ec4-4963-b306-c616a7cdc638.jpg)
+![Hardware Image](https://Sonia133/Robotics.com/e844b89c-3ec4-4963-b306-c616a7cdc638.jpg)
 
 Name of the game : **BIT RACE**
 
