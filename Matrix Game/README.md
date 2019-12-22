@@ -29,3 +29,6 @@ Menu :
  2. Settings : Here the player can choose the level he wants to play, from 1 to 5.
  3. Info : This options shows first the name of the game, then the creator and in the end that it was made at @UnibucRobotics.
  4. HighScore : Section number four shows the best high score.
+
+
+Video presentation of my game : https://drive.google.com/open?id=1sPJTFUcMX3HqdmrBR8Vs-FChn2NTV5Nc
