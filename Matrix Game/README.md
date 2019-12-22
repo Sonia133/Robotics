@@ -1,5 +1,4 @@
-![Hardware Image](\Users\caa\Desktop\Anul 2\Robotica\matrixGame.jpg)
-<img src = "e844b89c-3ec4-4963-b306-c616a7cdc638.jpg">
+![Hardware Image](/Anul2/Robotica/matrixGame.jpg)
 
 Name of the game : BIT RACE
 
