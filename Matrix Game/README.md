@@ -22,6 +22,7 @@ How to play :
   Good luck and take care of your dot !
 
 Menu :
+
  The menu has 4 options . You can choose one by scrolling with the JoyStick and then pressing the button.
  
  1. StartGame : By pressing it, the player will start the game after a countdown from 3 , the level will be shown on the matrix and he can start to play.
