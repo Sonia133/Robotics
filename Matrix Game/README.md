@@ -21,3 +21,10 @@ How to play :
   Your character will also be one small, red dot on the matrix. 
   Good luck and take care of your dot !
 
+Menu :
+ The menu has 4 options . You can choose one by scrolling with the JoyStick and then pressing the button.
+ 
+ 1. StartGame : By pressing it, the player will start the game after a countdown from 3 , the level will be shown on the matrix and he can start to play.
+ 2. Settings : Here the player can choose the level he wants to play, from 1 to 5.
+ 3. Info : This options shows first the name of the game, then the creator and in the end that it was made at @UnibucRobotics.
+ 4. HighScore : Section number four shows the best high score.
