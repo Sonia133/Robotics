@@ -1,5 +1,3 @@
-![Hardware Image](https://i.ibb.co/tQm6k33/e844b89c-3ec4-4963-b306-c616a7cdc638.jpg)
-
 Name of the game : **BIT RACE**
 
 **Hardware** 
@@ -34,3 +32,6 @@ Name of the game : **BIT RACE**
 
 
 Video presentation of my game : https://drive.google.com/open?id=12pBhvnCe75BAbwR5QiQ8gp9w2Fbq7RQI
+
+![Hardware Image](https://i.ibb.co/tQm6k33/e844b89c-3ec4-4963-b306-c616a7cdc638.jpg)
+
