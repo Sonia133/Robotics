@@ -1,4 +1,4 @@
-![Hardware Image](/Anul2/Robotica/matrixGame.jpg)
+![Hardware Image](/Anul2/Robotica/matrixGame.png)
 
 Name of the game : BIT RACE
 
